@@ -1,4 +1,4 @@
-# Hi, I'm Gamzenur 👋
+# Hi, I'm Gamze 👋
 ## Software QA Engineer
  🌍 You can contect me at gamzenurgurfidan@gmail.com
 
