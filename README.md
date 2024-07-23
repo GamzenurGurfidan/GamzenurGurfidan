@@ -1,5 +1,5 @@
-## Hi, I'm Gamzenur 👋
-# Software QA Engineer
+# Hi, I'm Gamzenur 👋
+## Software QA Engineer
 You can contect me at gamzenurgurfidan@gmail.com
 
 <!--
