@@ -1,6 +1,6 @@
 # Hi, I'm Gamze 👋
 ## Software QA Engineer
- 🌍 You can contect me at gamzenurgurfidan@gmail.com
+ 🌍 Contact me => gamzenurgurfidan@gmail.com
 
 <!--
 **GamzenurGurfidan/GamzenurGurfidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
